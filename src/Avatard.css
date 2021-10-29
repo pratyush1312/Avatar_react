@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  /* background-color: #88e0ef; */
+  background-color: #00A19D;
+}
+
+.avatard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
